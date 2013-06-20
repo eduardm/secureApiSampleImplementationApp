@@ -3,8 +3,6 @@ secureApiSampleImplementationApp
 
 A sample app that implements the secureApi grails plugin.
 
-Sample app to exmplify usage of the FoursquareAuthentication Grails Plugin
-
 # Introduction
 
 This application is a simple implementation of the [Secure API Grails Plugin](https://github.com/eduardm/secureApiGrailsPlugin).
