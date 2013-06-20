@@ -1,0 +1,70 @@
+initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitignore
+#	new file:   application.properties
+#	new file:   grails-app/conf/ApplicationResources.groovy
+#	new file:   grails-app/conf/BootStrap.groovy
+#	new file:   grails-app/conf/BuildConfig.groovy
+#	new file:   grails-app/conf/Config.groovy
+#	new file:   grails-app/conf/DataSource.groovy
+#	new file:   grails-app/conf/UrlMappings.groovy
+#	new file:   grails-app/conf/spring/resources.groovy
+#	new file:   grails-app/controllers/secureapisampleapp/ApiController.groovy
+#	new file:   grails-app/i18n/messages.properties
+#	new file:   grails-app/i18n/messages_cs_CZ.properties
+#	new file:   grails-app/i18n/messages_da.properties
+#	new file:   grails-app/i18n/messages_de.properties
+#	new file:   grails-app/i18n/messages_es.properties
+#	new file:   grails-app/i18n/messages_fr.properties
+#	new file:   grails-app/i18n/messages_it.properties
+#	new file:   grails-app/i18n/messages_ja.properties
+#	new file:   grails-app/i18n/messages_nl.properties
+#	new file:   grails-app/i18n/messages_pt_BR.properties
+#	new file:   grails-app/i18n/messages_pt_PT.properties
+#	new file:   grails-app/i18n/messages_ru.properties
+#	new file:   grails-app/i18n/messages_sv.properties
+#	new file:   grails-app/i18n/messages_th.properties
+#	new file:   grails-app/i18n/messages_zh_CN.properties
+#	new file:   grails-app/views/error.gsp
+#	new file:   grails-app/views/index.gsp
+#	new file:   grails-app/views/layouts/main.gsp
+#	new file:   secureApiSampleApp-grailsPlugins.iml
+#	new file:   secureApiSampleApp.iml
+#	new file:   web-app/WEB-INF/applicationContext.xml
+#	new file:   web-app/WEB-INF/sitemesh.xml
+#	new file:   web-app/WEB-INF/tld/c.tld
+#	new file:   web-app/WEB-INF/tld/fmt.tld
+#	new file:   web-app/WEB-INF/tld/grails.tld
+#	new file:   web-app/WEB-INF/tld/spring.tld
+#	new file:   web-app/css/errors.css
+#	new file:   web-app/css/main.css
+#	new file:   web-app/css/mobile.css
+#	new file:   web-app/images/apple-touch-icon-retina.png
+#	new file:   web-app/images/apple-touch-icon.png
+#	new file:   web-app/images/favicon.ico
+#	new file:   web-app/images/grails_logo.jpg
+#	new file:   web-app/images/grails_logo.png
+#	new file:   web-app/images/leftnav_btm.png
+#	new file:   web-app/images/leftnav_midstretch.png
+#	new file:   web-app/images/leftnav_top.png
+#	new file:   web-app/images/skin/database_add.png
+#	new file:   web-app/images/skin/database_delete.png
+#	new file:   web-app/images/skin/database_edit.png
+#	new file:   web-app/images/skin/database_save.png
+#	new file:   web-app/images/skin/database_table.png
+#	new file:   web-app/images/skin/exclamation.png
+#	new file:   web-app/images/skin/house.png
+#	new file:   web-app/images/skin/information.png
+#	new file:   web-app/images/skin/shadow.jpg
+#	new file:   web-app/images/skin/sorted_asc.gif
+#	new file:   web-app/images/skin/sorted_desc.gif
+#	new file:   web-app/images/spinner.gif
+#	new file:   web-app/images/springsource.png
+#	new file:   web-app/js/application.js
+#
+
